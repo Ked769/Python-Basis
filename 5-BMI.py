@@ -1,0 +1,1 @@
+print("BMI is : ",float(input("Enter weight(kg) : "))/(float(input("Enter height(m) : "))**2), "kg/m²")

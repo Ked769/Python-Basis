@@ -1,0 +1,1 @@
+print("Thought for the day is : \nHonesty is the best policy!")

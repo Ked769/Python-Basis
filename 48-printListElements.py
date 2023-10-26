@@ -1,0 +1,1 @@
+for i in input("Enter list seperated by space : ").split():print(i)

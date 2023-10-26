@@ -1,0 +1,1 @@
+print(["Even","Odd"][int(input("Enter number : "))%2])

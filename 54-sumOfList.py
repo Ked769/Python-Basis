@@ -1,0 +1,1 @@
+print("Sum of elements : ", sum([int(i) for i in input("Enter elements seperated by space : ").split()]))

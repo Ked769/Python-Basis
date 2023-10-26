@@ -1,0 +1,1 @@
+print(f"Resultant list : ",input("Enter list seperated by space : ").split()[::2])

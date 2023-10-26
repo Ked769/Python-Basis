@@ -1,0 +1,1 @@
+print("No. of occcurences of a : ", list(input("Enter string : \t")).count("a"))

@@ -1,0 +1,1 @@
+print(f"No. of words : {len(input('Enter string : ').split())}")

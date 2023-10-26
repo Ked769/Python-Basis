@@ -1,0 +1,1 @@
+print(tuple(int(i)**2 for i in range(int(input("Enter elements seperated by space : "))+1)))
